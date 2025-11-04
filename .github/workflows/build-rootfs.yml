@@ -24,7 +24,7 @@ on:
       replace_banner:
         description: '替换为ImmortalWrt的banner信息'
         required: false
-        default: true
+        default: false
         type: boolean
       rootfs_partsize:
         description: '软件包大小1G固定'
