@@ -5,7 +5,7 @@ on:
       openwrt_kernel:
         description: "选择构建的内核"
         required: false
-        default: "6.6.93"
+        default: "6.12.39"
         type: choice
         options:
           - 5.15.189
