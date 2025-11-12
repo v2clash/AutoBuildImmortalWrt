@@ -11,7 +11,7 @@ on:
           - 5.15.189
           - 6.1.146
           - 6.6.93
-          - 6.12.39
+          - 6.12.57
       include_docker:
         description: |
           是否编译 Docker 插件
